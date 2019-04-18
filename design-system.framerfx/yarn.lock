@@ -42,6 +42,13 @@
   resolved "https://registry.yarnpkg.com/@emotion/unitless/-/unitless-0.7.3.tgz#6310a047f12d21a1036fb031317219892440416f"
   integrity sha512-4zAPlpDEh2VwXswwr/t8xGNDGg8RQiPxtxZ3qQEXyQsBV39ptTdESCjuBvGze1nLMVrxmTIKmnO/nAV8Tqjjzg==
 
+"@framer/benjamin.animator@^1.2.0":
+  version "1.2.0"
+  resolved "https://registry.framer.com/@framer/benjamin.animator/-/@framer/benjamin.animator-1.2.0.tgz#391278cf4af6f068ad7705463a9498d8ebf63763"
+  integrity sha512-ttCt90xAJx5Ud/fLvy8HTvaF0cTsLaMQFRAO+i1elgjZm5Ex3eF26KJjc8790V8OYmCCH+unIICMud0wiSWkWg==
+  dependencies:
+    styled-components "^4.2.0"
+
 "@types/prop-types@*":
   version "15.5.6"
   resolved "https://registry.yarnpkg.com/@types/prop-types/-/prop-types-15.5.6.tgz#9c03d3fed70a8d517c191b7734da2879b50ca26c"

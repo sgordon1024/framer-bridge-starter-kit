@@ -1,17 +1,20 @@
 {
-  "main": "dist/index.js",
-  "license": "MIT",
-  "devDependencies": {
-    "@types/react": "^16.4.16",
-    "framer": "^0.10"
-  },
-  "peerDependencies": {
-    "framer": "^0.10",
-    "react": "^16.3.0",
-    "react-dom": "^16.3.0"
-  },
-  "version": "1.0.0",
-  "dependencies": {
-    "styled-components": "^4.2.0"
-  }
+	"main": "dist/index.js",
+	"license": "MIT",
+	"devDependencies": {
+		"@types/react": "^16.4.16"
+	},
+	"peerDependencies": {
+		"react": "^16.3.0",
+		"react-dom": "^16.3.0"
+	},
+	"version": "1.0.0",
+	"dependencies": {
+		"@framer/benjamin.animator": "^1.2.0",
+		"styled-components": "^4.2.0"
+	},
+	"framer": {
+		"id": "194954be-42bd-4708-9d0b-51c742365f98"
+	},
+	"author": "Steve Gordon"
 }
