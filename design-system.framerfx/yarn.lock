@@ -42,13 +42,6 @@
   resolved "https://registry.yarnpkg.com/@emotion/unitless/-/unitless-0.7.3.tgz#6310a047f12d21a1036fb031317219892440416f"
   integrity sha512-4zAPlpDEh2VwXswwr/t8xGNDGg8RQiPxtxZ3qQEXyQsBV39ptTdESCjuBvGze1nLMVrxmTIKmnO/nAV8Tqjjzg==
 
-"@framer/benjamin.animator@^1.2.0":
-  version "1.2.0"
-  resolved "https://registry.framer.com/@framer/benjamin.animator/-/@framer/benjamin.animator-1.2.0.tgz#391278cf4af6f068ad7705463a9498d8ebf63763"
-  integrity sha512-ttCt90xAJx5Ud/fLvy8HTvaF0cTsLaMQFRAO+i1elgjZm5Ex3eF26KJjc8790V8OYmCCH+unIICMud0wiSWkWg==
-  dependencies:
-    styled-components "^4.2.0"
-
 "@types/prop-types@*":
   version "15.5.6"
   resolved "https://registry.yarnpkg.com/@types/prop-types/-/prop-types-15.5.6.tgz#9c03d3fed70a8d517c191b7734da2879b50ca26c"
@@ -106,6 +99,13 @@ esutils@^2.0.2:
   resolved "https://registry.yarnpkg.com/esutils/-/esutils-2.0.2.tgz#0abf4f1caa5bcb1f7a9d8acc6dea4faaa04bac9b"
   integrity sha1-Cr9PHKpbyx96nYrMbepPqqBLrJs=
 
+framer@1.0.0-beta.9:
+  version "1.0.0-beta.9"
+  resolved "https://registry.yarnpkg.com/framer/-/framer-1.0.0-beta.9.tgz#1f060aee119dd51c74cac271820e0a2a2f912eed"
+  integrity sha512-Bq7APiD/pBLYuw2IxB0liQMEtUqezdHeKUSk3NvnqshiFI6GctlvN7e0N3dSzLNRIVE2Hi1uKW/O9kjF28cnaQ==
+  dependencies:
+    style-value-types "^3.1.0"
+
 has-flag@^3.0.0:
   version "3.0.0"
   resolved "https://registry.yarnpkg.com/has-flag/-/has-flag-3.0.0.tgz#b5d454dc2199ae225699f3467e5a07f3b955bafd"
@@ -156,6 +156,11 @@ react-is@^16.6.0, react-is@^16.8.1:
   version "16.8.6"
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-16.8.6.tgz#5bbc1e2d29141c9fbdfed456343fe2bc430a6a16"
   integrity sha512-aUk3bHfZ2bRSVFFbbeVS4i+lNPZr3/WM5jT2J5omUVV1zzcs1nAaf3l51ctA5FFvCRbhrH0bdAsRRQddFJZPtA==
+
+style-value-types@^3.1.0:
+  version "3.1.0"
+  resolved "https://registry.yarnpkg.com/style-value-types/-/style-value-types-3.1.0.tgz#07e06090e7581adff4c7955d544c1029d0663795"
+  integrity sha512-7eaMZ8RKWIQUKHPQK7qv3zLYmvZNb2pCmO4WguXdVFymd2Qj9xqSUoo7LQ8Wd8eiLuoSd+uqzsvcodyvD8nn6Q==
 
 styled-components@^4.2.0:
   version "4.2.0"
