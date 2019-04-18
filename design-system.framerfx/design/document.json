@@ -925,9 +925,9 @@
             "children" : [
               {
                 "__class" : "TextNode",
-                "autoSize" : true,
+                "autoSize" : false,
                 "bottom" : null,
-                "centerAnchorX" : 0.25144508670520233,
+                "centerAnchorX" : 0.5,
                 "centerAnchorY" : 0.20882352941176471,
                 "codeOverrideEnabled" : false,
                 "constraintsLocked" : true,
@@ -944,7 +944,7 @@
                 "opacity" : 1,
                 "originalid" : null,
                 "parentid" : "CKuhgf46D",
-                "right" : null,
+                "right" : 21,
                 "rotation" : 0,
                 "styledText" : {
                   "__class" : "StyledTextDraft",
@@ -1000,9 +1000,9 @@
                     "os" : "10_14",
                     "size" : {
                       "height" : 21,
-                      "width" : 45
+                      "width" : 132
                     },
-                    "width" : 0
+                    "width" : 131
                   },
                   "entityMap" : {
 
@@ -1010,7 +1010,7 @@
                 },
                 "top" : 25,
                 "visible" : true,
-                "width" : 45,
+                "width" : 131,
                 "widthType" : 0,
                 "x" : 21,
                 "y" : 25
@@ -1036,7 +1036,7 @@
                 "opacity" : 1,
                 "originalid" : null,
                 "parentid" : "CKuhgf46D",
-                "right" : null,
+                "right" : 21,
                 "rotation" : 0,
                 "styledText" : {
                   "__class" : "StyledTextDraft",
@@ -1193,7 +1193,7 @@
         "isExternalMaster" : null,
         "isMaster" : false,
         "isTarget" : false,
-        "left" : -152,
+        "left" : -153,
         "locked" : false,
         "name" : "Card",
         "navigationTarget" : null,
@@ -1221,7 +1221,7 @@
         "replicaInfo" : null,
         "right" : null,
         "rotation" : 0,
-        "top" : 195,
+        "top" : 190,
         "visible" : true,
         "width" : 200,
         "widthType" : 0
@@ -1246,9 +1246,9 @@
             "children" : [
               {
                 "__class" : "TextNode",
-                "autoSize" : true,
+                "autoSize" : false,
                 "bottom" : null,
-                "centerAnchorX" : 0.25144508670520233,
+                "centerAnchorX" : 0.5,
                 "centerAnchorY" : 0.20882352941176471,
                 "codeOverrideEnabled" : false,
                 "constraintsLocked" : true,
@@ -1265,7 +1265,7 @@
                 "opacity" : 1,
                 "originalid" : null,
                 "parentid" : "E4DwC6gGY",
-                "right" : null,
+                "right" : 21,
                 "rotation" : 0,
                 "styledText" : {
                   "__class" : "StyledTextDraft",
@@ -1321,9 +1321,9 @@
                     "os" : "10_14",
                     "size" : {
                       "height" : 21,
-                      "width" : 45
+                      "width" : 138
                     },
-                    "width" : 0
+                    "width" : 137
                   },
                   "entityMap" : {
 
@@ -1331,7 +1331,7 @@
                 },
                 "top" : 25,
                 "visible" : true,
-                "width" : 45,
+                "width" : 131,
                 "widthType" : 0,
                 "x" : 21,
                 "y" : 25
@@ -1357,7 +1357,7 @@
                 "opacity" : 1,
                 "originalid" : null,
                 "parentid" : "E4DwC6gGY",
-                "right" : null,
+                "right" : 21,
                 "rotation" : 0,
                 "styledText" : {
                   "__class" : "StyledTextDraft",
@@ -1514,7 +1514,7 @@
         "isExternalMaster" : null,
         "isMaster" : false,
         "isTarget" : false,
-        "left" : 79,
+        "left" : 78,
         "locked" : false,
         "name" : "Card With Image",
         "navigationTarget" : null,
@@ -1542,7 +1542,7 @@
         "replicaInfo" : null,
         "right" : null,
         "rotation" : 0,
-        "top" : 195,
+        "top" : 190,
         "visible" : true,
         "width" : 200,
         "widthType" : 0
